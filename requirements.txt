@@ -1,8 +1,9 @@
 streamlit
 pandas
-numpy
-scikit-learn
-evalml
+numpy==1.23.5
+scikit-learn==1.2.2
 plotly
 seaborn
 matplotlib
+evalml==0.28.0
+woodwork==0.4.1
